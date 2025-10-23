@@ -22,8 +22,8 @@ This is a comprehensive, single-page application (SPA) built with **React.js** a
 
 | Type | Link |
 | :--- | :--- |
-| **Live Demo URL(https://task-manager-orcin-beta.vercel.app/)]** |
-| **GitHub Repository** (https://task-manager-orcin-beta.vercel.app/) |
+| **Live Demo URLhttps://task-manager-orcin-beta.vercel.app/
+| **GitHub Repositoryhttps://task-manager-orcin-beta.vercel.app/
 
 ***
 
